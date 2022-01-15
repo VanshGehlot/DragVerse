@@ -1,0 +1,5 @@
+# DS_Store
+.DS_Store
+
+# NPM packages
+node_modules/*
