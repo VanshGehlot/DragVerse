@@ -9,7 +9,7 @@ A repo to bootstrap your own permissionless auction house with the Zora protocol
 ## Unstoppable Domain Integration 
 #### Link to working code repository: [https://github.com/VanshGehlot/DragVerse](https://github.com/VanshGehlot/DragVerse)
 
-#### Live Video Demo:https://drive.google.com/file/d/1gftLDdf75mxHp1W7Gdo1ZEKbMT7NhOTo/view?usp=sharing
+#### Live Video Demo:https://vimeo.com/745942268
 
 #### Twitter: [https://twitter.com/VanshGehlotJDH](https://twitter.com/VanshGehlotJDH)
 
