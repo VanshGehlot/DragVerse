@@ -1,12 +1,12 @@
 {
-  "../node_modules/@web3-react/walletconnect-connector/dist/walletconnect-connector.esm.js -> @walletconnect/web3-provider": {
+  "..\\node_modules\\@web3-react\\walletconnect-connector\\dist\\walletconnect-connector.esm.js -> @walletconnect/web3-provider": {
     "id": "./node_modules/@walletconnect/web3-provider/dist/esm/index.js",
     "files": [
       "static/chunks/vendors-node_modules_walletconnect_web3-provider_dist_esm_index_js.js",
       "static/chunks/_a449-_3fc0-_802b-_1e44-_3e83-_19e6-_0cc0-_aeb7.js"
     ]
   },
-  "../node_modules/next/dist/client/next-dev.js -> ./dev/noop": {
+  "..\\node_modules\\next\\dist\\client\\next-dev.js -> ./dev/noop": {
     "id": "./node_modules/next/dist/client/dev/noop.js",
     "files": [
       "static/chunks/node_modules_next_dist_client_dev_noop_js.js"

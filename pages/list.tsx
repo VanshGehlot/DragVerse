@@ -1,4 +1,5 @@
 import styled from "@emotion/styled";
+import UNSD from "../components/UNSD";
 import {
   AuctionManager,
   useManageAuction,
@@ -70,10 +71,14 @@ const ConnectWallet = () => {
         connectedInfo === undefined
           ? "To List your NFT Connect your wallet!"
           : connectedInfo
-      }`}</h1>
+        }`}</h1>
+      <div className="flex">
+
       <button className="button" onClick={() => buttonAction()}>
         {actionText}
       </button>
+      <UNSD/>
+      </div>
     </div>
   );
 };
@@ -161,12 +166,14 @@ export default function List() {
       >
         <ListWrapper>
           <ConnectWallet />
+          
           {account &&
             <div className="owned-list">
               <RenderOwnedList account={account} />
             </div>
           }
         </ListWrapper>
+        
       </AuctionManager>
     </>
   );
