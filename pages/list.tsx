@@ -19,6 +19,7 @@ import useSWR from "swr";
 import { APP_TITLE } from "../utils/env-vars";
 import Head from "../components/head";
 import { PageWrapper } from "./../styles/components";
+import Resolution from "../components/Resolution";
 
 const ListItemComponent = () => {
   const {
@@ -77,7 +78,8 @@ const ConnectWallet = () => {
       <button className="button" onClick={() => buttonAction()}>
         {actionText}
       </button>
-      <UNSD/>
+        <UNSD />
+        <Resolution/>
       </div>
     </div>
   );
