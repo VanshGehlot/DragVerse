@@ -6,6 +6,17 @@ A repo to bootstrap your own permissionless auction house with the Zora protocol
 
 [More about the Zora Auction House on Mirror](https://zora.mirror.xyz/UwQwplCMEe1T5eUkp0CpTDJjZXvAK3eeakskTaQe3pE)
 
+## Unstoppable Domain Integration 
+#### Link to working code repository: [https://github.com/VanshGehlot/DragVerse](https://github.com/VanshGehlot/DragVerse)
+
+#### Live Video Demo:https://vimeo.com/745942268
+
+#### Twitter: [https://twitter.com/VanshGehlotJDH](https://twitter.com/VanshGehlotJDH)
+
+#### Discord: Vansh#0002
+
+#### UD registered email account - gehlotvansh111@gmail.com
+
 ## Features
 1. uses [`@zoralabs/nft-components`](https://github.com/ourzora/nft-components) to render NFTs and auction info.
 2. includes [`@zoralabs/nft-hooks`](https://github.com/ourzora/nft-hooks) for more custom applications.
